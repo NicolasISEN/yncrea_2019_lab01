@@ -1,9 +1,9 @@
 # Tests Description
 There are 2 kinds of tests :
-* Structure tests that check the classes you create are in the correct package, have the correct methods, attributs, annotations and so on
-* Behaviour test that check if the implementation of your methods are correct
+* Structure tests that check the classes you create are in the correct package, have the correct methods, attributes, annotations and so on
+* Behaviour tests that check if the implementation of your methods is correct
 
-You will find in this document some tips in order to understand what do we test.
+You will find in this document some tips in order to understand what we are trying to test.
 
 ## `DrugsServletStructureTestCase`
  * `shouldExtendsHttpServlet`: checks that the class extends the correct superclass
