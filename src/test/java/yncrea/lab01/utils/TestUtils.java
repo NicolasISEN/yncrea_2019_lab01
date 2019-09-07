@@ -1,4 +1,4 @@
-package yncrea.pw01.utils;
+package yncrea.lab01.utils;
 
 import java.lang.reflect.Method;
 

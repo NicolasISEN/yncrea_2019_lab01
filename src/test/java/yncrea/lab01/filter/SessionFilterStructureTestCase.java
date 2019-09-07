@@ -1,9 +1,9 @@
-package yncrea.pw01.filter;
+package yncrea.lab01.filter;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
-import yncrea.pw01.utils.TestUtils;
+import yncrea.lab01.utils.TestUtils;
 
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
