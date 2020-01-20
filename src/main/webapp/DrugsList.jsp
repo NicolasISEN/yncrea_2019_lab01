@@ -1,4 +1,5 @@
 <%@page import="yncrea.lab01.model.*, java.util.List" contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page import="model.Drug" %>
 <%! List<Drug> drugs; %>
 <%drugs = (List<Drug>) request.getAttribute("drugs"); %>
 <html>
