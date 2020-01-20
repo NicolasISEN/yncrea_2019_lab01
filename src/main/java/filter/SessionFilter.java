@@ -1,4 +1,4 @@
-package SessionFilter;
+package filter;
 
 public class SessionFilter {
 }
